@@ -194,10 +194,10 @@
   dependencies:
     "@types/yargs-parser" "*"
 
-"@whitebeardit/easy-openai@^1.0.11":
-  version "1.0.11"
-  resolved "https://npm.pkg.github.com/download/@whitebeardit/easy-openai/1.0.11/89f763b42c6d0e07c42e9893382130802ca1a16b#89f763b42c6d0e07c42e9893382130802ca1a16b"
-  integrity sha512-KQuZmrQikLGSUfJ0liZu7S94E21xbtGn+ogE9z039G14MbhwSeKDmLyxwJ8o2QDWl5DJtAiBkQt+VG9JdMA83w==
+"@whitebeardit/easy-openai@^1.0.13":
+  version "1.0.13"
+  resolved "https://npm.pkg.github.com/download/@whitebeardit/easy-openai/1.0.13/53f423e9ad43367f9e138f072c8664891bdb0fe6#53f423e9ad43367f9e138f072c8664891bdb0fe6"
+  integrity sha512-zX9QgVI25cll7a9vSKVgDegBOHk+j/6q7YnhlftHCYqEhoLh3tMFjYyIKHIi8sWFxuoXx9TQNp9IyieG6qDlBw==
   dependencies:
     "@types/bcryptjs" "^2.4.2"
     bcryptjs "^2.4.3"
