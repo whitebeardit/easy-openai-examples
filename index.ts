@@ -8,7 +8,7 @@ const chatRepository = new ChatRepository();
 const messageRepository = new MessageRepository();
 const whitebeard =  new Assistant(chatRepository, messageRepository, {
     humor: EHumor.SARCASTIC,
-    name: 'Whitebeard Assistant',
+    name: 'Whitebeard',
     id: `wb_18927689172398713987`,
     model: EModel['GPT-3.5-TURBO']
 });
